@@ -25,14 +25,7 @@ python split_data.py
 it will create dataset in data pipeline format.
 
 ### data pipeline
-
-data/
-├── train/
-│   ├── class_1/
-│   └── class_2/
-└── test/
-    ├── class_1/
-    └── class_2/
+![data_pipeline (3)](https://github.com/user-attachments/assets/30d82ef0-2c4b-434d-b18d-755b09455719)
 
 ### Usage
 
