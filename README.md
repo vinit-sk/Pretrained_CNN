@@ -27,12 +27,13 @@ it will create dataset in data pipeline format.
 ### data pipeline
 
 data/
-  |--> train/
-  |     |--> class_1/
-  |     |--> class_2/
-  |--> test/
-        |--> class_1/
-        |--> class_2/
+├── train/
+│   ├── class_1/
+│   └── class_2/
+└── test/
+    ├── class_1/
+    └── class_2/
+
 ### Usage
 
 To execute the project, you only need to run the file below in your terminal
